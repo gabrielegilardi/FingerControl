@@ -41,7 +41,7 @@ global alpha1 alpha2 dCB1o dCB2o a1 a2 a3 a4 a5 Lw1 Lw2
 global ha_1 hb_1 ha_2 hb_2 ha_1c hb_1c ha_2c hb_2c Tamb
 
 % Define the finger desired time-profile
-ProfileType = 2;
+ProfileType = 1;
 
 % INITIAL DATA
 theta0 = -40*(pi/180);      % Initial angular position [rad]
