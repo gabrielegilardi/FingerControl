@@ -28,4 +28,4 @@ Ko J., Martin B.J., **Gilardi G.**, Haslam E., and Park E.J, 2011, “Fuzzy PWM-
 - rotation to -25 degrees using SMA1 (SMA2 used as passive spring).
 - rotation to -55 degrees using both SMAs (motion is driven by SMA2 while SMA1 is used to reduce overshooting).
 
-Results for these two examples are in the jpg files.
+Results for these two examples are shown in the bmp files.
