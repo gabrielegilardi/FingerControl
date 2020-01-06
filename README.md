@@ -19,13 +19,11 @@ Ko J., Martin B.J., **Gilardi G.**, Haslam E., and Park E.J, 2011, “Fuzzy PWM-
 
 #### Examples
 
-`ProfileType = 1`
+`ProfileType = 1` ([Main results](./Example1_Main_Results.bmp), [results SMA1](./Example1_Results_SMA1.bmp), [results SMA2](./Example1_Results_SMA2.bmp))
 - rotation to -25 degrees using SMA1 (SMA2 used as passive spring).
 - cool down period (both SMAs used as passive springs).
 - rotation to -30 degrees using SMA1 (SMA2 used as passive spring).
 
-`ProfileType = 2`
+`ProfileType = 2` ([Main results](./Example2_Main_Results.bmp), [results SMA1](./Example2_Results_SMA1.bmp), [results SMA2](./Example2_Results_SMA2.bmp))
 - rotation to -25 degrees using SMA1 (SMA2 used as passive spring).
 - rotation to -55 degrees using both SMAs (motion is driven by SMA2 while SMA1 is used to reduce overshooting).
-
-Results for these two examples are shown in the bmp files.
