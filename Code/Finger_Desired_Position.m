@@ -1,3 +1,4 @@
+% (c) 2020 Gabriele Gilardi
 
 % Define the desired finger time-profile (angular position) 
 

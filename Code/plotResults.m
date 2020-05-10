@@ -1,3 +1,4 @@
+% (c) 2020 Gabriele Gilardi
 
 % Plot the main results
 

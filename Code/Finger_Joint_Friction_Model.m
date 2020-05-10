@@ -1,3 +1,4 @@
+% (c) 2020 Gabriele Gilardi
 
 % Define the finger friction model (Coulomb's model + viscous damping)
 

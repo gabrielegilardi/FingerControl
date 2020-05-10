@@ -1,3 +1,4 @@
+% (c) 2020 Gabriele Gilardi
 
 % Define the martensite fraction of SMA1
 

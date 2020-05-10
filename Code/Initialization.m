@@ -1,3 +1,4 @@
+% (c) 2020 Gabriele Gilardi
 %
 % =========================================================================
 % Simulation of the biomimetic control of an artificial finger using a 
