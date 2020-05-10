@@ -1,4 +1,4 @@
-% (c) 2020 Gabriele Gilardi
+% Copyright (c) 2020 Gabriele Gilardi
 
 % Define the heat transfer convection coefficient of SMA1
 

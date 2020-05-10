@@ -7,7 +7,7 @@ Model {
     NumRootInports	    0
     NumRootOutports	    0
     ParameterArgumentNames  ""
-    ComputedModelVersion    "1.774"
+    ComputedModelVersion    "1.775"
     NumModelReferences	    0
     NumTestPointedSignals   0
   }
@@ -30,7 +30,7 @@ Model {
       $ObjectID		      2
       $ClassName	      "Simulink.WindowInfo"
       IsActive		      [1]
-      Location		      [-8.0, -8.0, 1382.0, 744.0]
+      Location		      [-8.0, 0.0, 1382.0, 744.0]
       Object {
 	$PropName		"ModelBrowserInfo"
 	$ObjectID		3
@@ -54,7 +54,7 @@ Model {
 	IsActive		[1]
 	ViewObjType		"SimulinkTopLevel"
 	LoadSaveID		"0"
-	Extents			[1158.0, 570.0]
+	Extents			[1139.0, 570.0]
 	ZoomFactor		[1.3432465923172243]
 	Offset			[1.5897140221401855, 42.077490774907744]
       }
@@ -66,9 +66,9 @@ Model {
   ModifiedByFormat	  "%<Auto>"
   LastModifiedBy	  "GabGil"
   ModifiedDateFormat	  "%<Auto>"
-  LastModifiedDate	  "Sun May 10 15:28:36 2020"
-  RTWModifiedTimeStamp	  511025250
-  ModelVersionFormat	  "1.%<AutoIncrement:774>"
+  LastModifiedDate	  "Sun May 10 15:55:24 2020"
+  RTWModifiedTimeStamp	  511026922
+  ModelVersionFormat	  "1.%<AutoIncrement:775>"
   ConfigurationManager	  "none"
   SampleTimeColors	  off
   SampleTimeAnnotations	  off
@@ -1127,7 +1127,7 @@ Model {
   }
   System {
     Name		    "Finger_Full_Model"
-    Location		    [-8, -8, 1374, 736]
+    Location		    [-8, 0, 1374, 744]
     Open		    on
     ModelBrowserVisibility  on
     ModelBrowserWidth	    200
@@ -7099,14 +7099,16 @@ Model {
       "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }"
       "\n</style></head><body style=\" font-family:'Arial'; font-size:10px; font-weight:400; font-style:normal;\">\n<p "
       "style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0"
-      "px;\"><span style=\" font-size:10pt; font-weight:600;\">(c) 2020 Gabriele Gilardi</span></p></body></html>"
-      Position		      [79, 377, 234, 395]
+      "px;\"><span style=\" font-size:10pt; font-weight:600;\">Copyright (c) 2020 Gabriele Gilardi</span></p></body></h"
+      "tml>"
+      Position		      [79, 377, 299, 395]
       InternalMargins	      [0, 0, 0, 0]
       FixedHeight	      off
       FixedWidth	      off
       HorizontalAlignment     "left"
       VerticalAlignment	      "top"
       Interpreter	      "rich"
+      ZOrder		      -1
     }
     Annotation {
       SID		      "386"

@@ -1,4 +1,4 @@
-% (c) 2020 Gabriele Gilardi
+% Copyright (c) 2020 Gabriele Gilardi
 
 % Define the equivalent spring describing the elastic behaviour of SMA1
 
